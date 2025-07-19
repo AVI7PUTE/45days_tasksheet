@@ -1,13 +1,21 @@
 {
   "name": "day4",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AVI7PUTE/45days_tasksheet.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVI7PUTE/45days_tasksheet/issues"
+  },
+  "homepage": "https://github.com/AVI7PUTE/45days_tasksheet#readme",
   "description": "",
   "dependencies": {
     "express": "^5.1.0"
